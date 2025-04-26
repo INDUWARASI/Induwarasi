@@ -58,7 +58,7 @@
   <a href="https://linkedin.com/in/sandaru-matharage-959831233" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="https://www.facebook.com/SandaruInduwaraMatharage" target="_blank">
+  <a href="https://www.facebook.com/sandaruinduwara.martharage?mibextid=wwXIfr&mibextid=wwXIfr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
   </a>
   <a href="https://www.instagram.com/Induwara.lk/" target="_blank">
