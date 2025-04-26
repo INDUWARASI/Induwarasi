@@ -55,7 +55,7 @@
   <a href="https://www.youtube.com/channel/UCN454dBYoCACiQtICxzt42w" target="_blank">
     <img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="YouTube" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/InduwaraSI" target="_blank">
+  <a href="https://linkedin.com/in/sandaru-matharage-959831233" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
   </a>
   <a href="https://www.facebook.com/SandaruInduwaraMatharage" target="_blank">
