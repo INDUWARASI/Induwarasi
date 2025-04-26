@@ -47,9 +47,8 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-<h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCN454dBYoCACiQtICxzt42w" target="_blank">
